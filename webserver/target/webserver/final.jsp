@@ -6,6 +6,6 @@
     </head>
 
     <body>
-        <h1>HelloWorld, <%= request.getParameter("NOME")%> <%= request.getParameter("SOBRENOME")%>!</h1>
+        <h1>Hello World, <%= request.getParameter("NOME")%> <%= request.getParameter("SOBRENOME")%>!</h1>
     </body>
 </html>

@@ -6,7 +6,7 @@
     </head>
 
     <body>
-        <h1>HelloWorld, <%= request.getParameter("NOME")%>!!</h1>
+        <h1>Hello World, <%= request.getParameter("NOME")%>!!</h1>
         <% %>
         
         <FORM METHOD="GET" ACTION="final.jsp">
